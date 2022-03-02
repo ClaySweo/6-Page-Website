@@ -60,3 +60,10 @@ p {
    border-color:black;
    height: 60px;
 }
+.iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    height: 600px;
+}
